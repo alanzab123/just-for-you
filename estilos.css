@@ -1,0 +1,92 @@
+.header {
+    background: #139eb1;
+    font: lighter 14px verdana;
+    text-align: center;
+
+}
+
+.header h1 {
+    text-align: left;
+}
+
+h1 {
+    font-size:20 px;
+    font-family: verdana;
+    font-weight: bold;
+}
+h2 {
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-weight: lighter;
+}
+
+header, section, footer, aside, nav, article {
+    display: block;
+}
+
+body {
+    text-align: justify;
+    margin: auto;
+}
+
+p {
+    font-size: 16px;
+    font-family: geneva;
+    font-weight: inherit;
+}
+
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: lighter 14px verdana;
+    display: inline-block;
+}
+
+.article1 {
+    margin: 100px;
+    border: 1px solid white;
+    background: #81ecec;
+}
+
+.article2 {
+    margin: 100px;
+    border: 1px solid white;
+    background: #a29bfe;
+}
+
+.article3 {
+    margin: 100px;
+    border: 1px solid white;
+    background: #b2bec3;
+    
+}
+
+.article4 {
+    margin: 100px;
+    border: 1px solid white;
+    background: #d63031;
+}
+
+.article5 {
+    margin: 100px;
+    border: 1px solid white;
+    background: #00b894;
+}
+
+.article6 {
+    margin: 100px;
+    border: 1px solid white;
+    background: #fab1a0;
+}
+
+footer {
+    margin: 100px;
+    border: 1px solid white ;
+}
+
+.block {
+    margin: 100px;
+    border: 1px solid white;
+    background: #ff7675;
+
+}
